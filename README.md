@@ -1,4 +1,4 @@
-# [Blue Lovable Utilitarian Reading Buddy (B.L.U.R.B.)](https://intro.nyuadim.com/2024/12/10/final-project-blurb-the-book-buddy/)
+# [Blue Lovable Utilitarian Reading Buddy (B.L.U.R.B.)](https://intro.nyuadim.com/author/jct8263/)
 
 [p5.js Sketch](https://editor.p5js.org/jheel2006/sketches/Ec3A_rwQI) &nbsp;|&nbsp; [Schematic Diagram](https://drive.google.com/file/d/1V71hiwQB9CMfAQ7V1h9kRwT-XXYfMTMg/view?usp=sharing)
 
