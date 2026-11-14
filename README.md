@@ -4,7 +4,6 @@
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/cf190c80-de7f-45cd-acc0-276774a2335e" />
 
-
 ---
 
 ## Table of Contents
@@ -56,7 +55,7 @@ B.L.U.R.B.'s design started with a cute 3D model found on Thingiverse. However, 
 
 This is a video I took after the initial 3D printing stages, while working on making his head move from side to side:
 
-<!-- ADD VIDEO HERE: head movement test after 3D printing (0:24) -->
+[**Watch video: Head movement test after 3D printing (0:24)**](https://drive.google.com/file/d/17AboVSrW-IotsdRpXWEg2jKbI1PbE_6Y/view?usp=sharing)
 
 On the p5 side, B.L.U.R.B. sits on a cozy sofa in a softly lit library room. The setting is designed to create a comfortable atmosphere that enhances the reading experience. B.L.U.R.B. talks to the user through animated speech bubbles, with the text appearing in a typewriter effect. This combination of design and animation gives B.L.U.R.B. a friendly, approachable personality while keeping the focus on a relaxing, cozy environment.
 
@@ -69,7 +68,7 @@ To figure out how to flip pages mechanically, I watched a few videos online for 
 
 The adhesive would be stuck on the lower end of the shorter stick of the prototype below:
 
-<!-- ADD VIDEO HERE: adhesive prototype (0:54) -->
+[**Watch video: Adhesive page-flipping prototype (0:54)**](https://drive.google.com/file/d/1ZxWxkRHy-yz2e0B3yGNPxO-Mih1KYzIH/view?usp=sharing)
 
 Eventually, I tried a different approach: a combination of a wheel and a stick attached to a servo motor.
 
@@ -81,7 +80,7 @@ The wheels available in the lab didn't work well for this setup, so I had a cust
 
 It took a lot of iterations, but the mechanism worked much better in the end with one small change: in the first few seconds of the wheel running (when it has likely lifted the first page slightly), the stick moves slightly inward to fill this gap. The wheel then runs a little more, and the servo motion happens as before. This makes sure the stick (more likely than not) ends up in the right spot, under just one page, so the servo flips only the page above it.
 
-<!-- ADD VIDEO HERE: final page-flipping mechanism (0:33) -->
+[**Watch video: Final page-flipping mechanism (0:33)**](https://drive.google.com/file/d/1XTSq4PKsmy3l6TzzHExR6TpRb-sk9HHu/view?usp=sharing)
 
 ### Playing Ambient Music
 
@@ -132,7 +131,7 @@ A blue NeoPixel ring acts as a reading lamp, positioned near the book to provide
 
 Initial prototype:
 
-<!-- ADD VIDEO HERE -->
+[**Watch video: Reading lamp prototype (0:16)**](https://drive.google.com/file/d/10FRN3LAlqQ5KJpo0MVM2uCR-lub3fIRF/view?usp=sharing)
 
 ### Work in Progress Pictures
 
@@ -141,7 +140,6 @@ Initial prototype:
 <img width="1024" height="461" alt="image" src="https://github.com/user-attachments/assets/739e7a5d-0b3c-40d0-99d6-662fc7daeea1" />
 
 <img width="1024" height="461" alt="image" src="https://github.com/user-attachments/assets/d0ba97c4-ef74-4b65-a2c8-6f1c7a139f05" />
-
 
 ---
 
@@ -153,16 +151,15 @@ To keep the wiring organized, I used a separate box, also covered in brown paper
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9081798c-0251-4e14-8c1d-9ed6940f5638" />
 
-
 ---
 
 ## User Testing
 
 This project was displayed at the **Fall 2024 end-of-semester Interactive Media Showcase at NYU Abu Dhabi**. Here are some photos and videos of people interacting with it at the showcase:
 
-<!-- ADD VIDEO HERE: showcase interaction (1:15) -->
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/829a58bd-fdd6-478c-b1b8-e56370005272" />
+[**Watch video: Interaction at the IM Showcase (1:15)**](https://drive.google.com/file/d/1mEmWU6bmDex5y32RwHsLMtlymKK3MRek/view?usp=sharing)
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/829a58bd-fdd6-478c-b1b8-e56370005272" />
 
 ---
 
